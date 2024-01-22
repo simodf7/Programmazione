@@ -1,0 +1,10 @@
+Red Bull  Points: 431, Poles: 4
+Ferrari  Points: 334, Poles: 8
+Mercedes  Points: 305, Poles: 2
+Aston Martin  Points: 121, Poles: 0
+Alpine  Points: 99, Poles: 0
+McLaren  Points: 95, Poles: 0
+Alfa Romeo  Points: 51, Poles: 0
+Haas  Points: 34, Poles: 0
+Alpha Tauri  Points: 27, Poles: 0
+Williams  Points: 3, Poles: 0

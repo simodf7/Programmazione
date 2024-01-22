@@ -1,0 +1,22 @@
+Transaction: +200€ Transaction Date: 14/5/2022
+Balance: 900€ 
+Transaction: -50€ Transaction Date: 13/5/2022
+Balance: 850€ 
+Transaction: -100€ Transaction Date: 25/5/2022
+Balance: 750€ 
+Transaction: +200€ Transaction Date: 18/6/2022
+Balance: 950€ 
+Transaction: +250€ Transaction Date: 2/7/2022
+Balance: 1200€ 
+Transaction: +200€ Transaction Date: 12/8/2022
+Balance: 1400€ 
+Transaction: -50€ Transaction Date: 22/8/2022
+Balance: 1350€ 
+Transaction: +250€ Transaction Date: 17/9/2022
+Balance: 1600€ 
+Transaction: +200€ Transaction Date: 3/11/2022
+Balance: 1800€
+Transaction: +300€ Transaction Date: 2/1/2023
+Balance: 2100€ 
+Transaction: +300€ Transaction Date: 2/1/2023
+Balance: 2100€ 
